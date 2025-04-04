@@ -13,7 +13,7 @@ Regula Face SDK provides secure and convenient facial recognition with biometric
 https://github.com/regulaforensics/FaceCoreMatch-Swift-Package
 ```
    
-3. Select the version you want to use. For new projects, we recommend using the newest version of Document Reader SDK.
+3. Select the version you want to use. For new projects, we recommend using the newest version of Face SDK.
 4. Select the project you want to add the package.
 5. Click Add Package.
 
