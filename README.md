@@ -6,13 +6,13 @@ Regula Face SDK provides secure and convenient facial recognition with biometric
 
 ## How to Install
 
-1. In Xcode, naviate to File > Add Package Dependencies.
+1. In Xcode, navigate to File > Add Package Dependencies.
 2. In the prompt that appears, enter the package URL:
 
 ```
 https://github.com/regulaforensics/FaceCoreMatch-Swift-Package
 ```
-   
+
 3. Select the version you want to use. For new projects, we recommend using the newest version of Face SDK.
 4. Select the project you want to add the package.
 5. Click Add Package.
