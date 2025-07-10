@@ -2,14 +2,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "FaceCoreMatchBeta",
+    name: "FaceCoreMatch",
     platforms: [.iOS(.v13)],
     products: [
         .library(
-            name: "FaceCoreMatchBeta",
-            targets: ["FaceCoreMatchBeta"]),
+            name: "FaceCoreMatch",
+            targets: ["FaceCoreMatch"]),
     ],
     targets: [
-        .binaryTarget(name: "FaceCoreMatchBeta", url: "https://pods.regulaforensics.com/FaceCoreMatchBeta/7.1.1296/FaceCoreMatchBeta-7.1.1296.zip", checksum: "b3037ad07c6956736042e24cd9883ca5c5920df7924e795fd4b7eb19ec39c4c3"),
+        .binaryTarget(name: "FaceCoreMatch", url: "https://pods.regulaforensics.com/FaceCoreMatch/7.1.1500/FaceCoreMatch-7.1.1500.zip", checksum: "155deb34ab71bd3152b4d248f02fdb85bea10996adb7afb35acf0a809fe602dc"),
     ]
 )
