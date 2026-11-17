@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FaceCoreMatchStage",
-            url: "https://pods.regulaforensics.com/Stage/FaceCoreMatchStage/8.5.2864/FaceCoreMatchStage-8.5.2864.zip",
-            checksum: "2ba92d86d34d17f8c885ac61c473c3fa58f35518e4fe37e67ec58f91c348970f"),
+            url: "https://pods.regulaforensics.com/Stage/FaceCoreMatchStage/8.5.2869/FaceCoreMatchStage-8.5.2869.zip",
+            checksum: "f34eb1c50240b81b4335d20cd8fddafa71a2e586c990d0e47f2f5d71b18f10cd"),
     ]
 )
